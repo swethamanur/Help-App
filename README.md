@@ -3,7 +3,7 @@ Helps you locate the nearby places withing 5 miles of your current location.
 <hr>
 
 <h3>Getting Started</h3>
-  <p>Enter the choice of your place that you would like to search for and hit the Seacrh button. This then shows your current location and the nearby places that you searched for. 
+  <p>Enter the choice of your place that you would like to search for and hit the Search button. This then shows your current location and the nearby places that you searched for. 
   You could also rightclick anywhere on the map to choose a different location and search for places of your choice.</p>
 
 <hr>  
