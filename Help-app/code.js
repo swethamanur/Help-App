@@ -31,7 +31,7 @@ var markers = [];
             zoom: 10
         });
 
-        //create a request object to submit to nearbySearch method
+        //create a request object to submit to textsearch method
         request ={
             location: {lat,lng},
             radius: 8047,
@@ -97,7 +97,7 @@ var markers = [];
           service.textSearch(newRequest,callback);
     };
 
-    //callback function from the placesService -nearBySearch method
+    //callback function from the placesService -textSearch method
     function callback(results,status){
         
     if(status == google.maps.places.PlacesServiceStatus.OK){
